@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/mehdi-boua/easyVisite-front.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mehdi-boua/easyVisite-backend.git
